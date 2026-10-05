@@ -6,7 +6,7 @@
     <Nazwa_produktu><![CDATA[Sluxer Home 15]]></Nazwa_produktu>
     <Cena_promocyjna><![CDATA[5000.00]]></Cena_promocyjna>
     <Cena_regularna><![CDATA[6000.00]]></Cena_regularna>
-    <SKU/>
+    <SKU><![CDATA[MAG-SLUX-HOME-15]]></SKU>
     <Stan_magazynowy_produktu><![CDATA[500]]></Stan_magazynowy_produktu>
     <Atrybuty_produktu/>
     <Kategoria_produktu><![CDATA[Magazyn energii]]></Kategoria_produktu>
@@ -124,7 +124,7 @@ Gwarancja 10 lat</p>]]></Krótki_opis>
     <Nazwa_produktu><![CDATA[Sluxer Home 30]]></Nazwa_produktu>
     <Cena_promocyjna><![CDATA[1000.00]]></Cena_promocyjna>
     <Cena_regularna><![CDATA[12000.00]]></Cena_regularna>
-    <SKU/>
+    <SKU><![CDATA[MAG-SLUX-HOME-30]]></SKU>
     <Stan_magazynowy_produktu><![CDATA[500]]></Stan_magazynowy_produktu>
     <Atrybuty_produktu/>
     <Kategoria_produktu><![CDATA[Magazyn energii]]></Kategoria_produktu>
